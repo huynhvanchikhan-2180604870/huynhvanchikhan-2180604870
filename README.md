@@ -16,7 +16,7 @@
      Front-end:
 	⚛️ ReactJS: Experience in building dynamic and responsive user interfaces with ReactJS.
  
-      Database:
+     Database:
 	🐬 MySQL: Deep knowledge in relational database design and complex SQL querying.
  
 	🗄️ SQL Server: Proficient in optimizing and managing databases with SQL Server.
